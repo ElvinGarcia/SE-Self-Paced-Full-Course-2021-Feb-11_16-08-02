@@ -6,7 +6,7 @@
       (LAB)
     Useful Tools For Writing Code in React
 
-- [ ] 2. ## Introduction to Components
+- [x] 2. ## Introduction to Components
     React Components
     -  React Static Components
       (LAB)
@@ -16,7 +16,7 @@
       (LAB)
     React Modular Code
 
-- [ ] 3. ## Component Props and State
+- [x] 3. ## Component Props and State
     React props
     -  React Props Movie Lab
       (LAB)
@@ -30,7 +30,7 @@
     -  React Using Callbacks to Pass Information Code-Along
       (LAB)
 
-- [ ] 4. ## React Events
+- [x] 4. ## React Events
     React Events Crash Course
     -  React Events Crash Course Lab
       (LAB)
@@ -45,7 +45,7 @@
     -  React Updating State Lab
       (LAB)
 
-- [ ] 5. ## React Forms
+- [x] 5. ## React Forms
    -  React Controlled Components
      (LAB)
    -  React Controlled Components Lab
@@ -53,7 +53,7 @@
    -  React Props and State Lab
      (LAB)
 
-- [ ] 6. ## Lifecycle Methods
+- [x] 6. ## Lifecycle Methods
     React Component Lifecycle
     Component Mounting and Unmounting
     -  React: Component Mounting and Unmounting
@@ -64,14 +64,14 @@
     -  React Component Updating
       (LAB)
 
-- [ ] 7. ## Asynchronous React
+- [x] 7. ## Asynchronous React
     Asynchronous React
     -  React Fetch Lab
       (LAB)
     -  Giphy Search!
       (LAB)
 
-- [ ] 8. ## Advanced Components
+- [x] 8. ## Advanced Components
     Types of Components
     React Presentation Components
     -  React Presentation Components Lab
@@ -81,14 +81,14 @@
       (LAB)
     React Fragments
 
-- [ ] 9. ## React: Under the Hood
+- [x] 9. ## React: Under the Hood
     Create React App
     Babel and React
     Webpack and React
     React Declarative Programming
     Reconciliation in React
 
-- [ ] 10. ## Client-Side Routing
+- [x] 10. ## Client-Side Routing
     Introduction to React Router
     -  Introduction to React Router
       (LAB)
@@ -97,11 +97,11 @@
     -  Nested Routes in React Router
       (LAB)
 
-    - [ ] 11. ## Authorization
+    - [x] 11. ## Authorization
     -  JWT Auth in Redux and Rails
       (LAB)
 
-- [ ] 12. ## Redux: Building Redux from Scratch
+- [x] 12. ## Redux: Building Redux from Scratch
     Why Redux?
     Using Pure Functions to Update Application State
     -  Reducers Lab
@@ -117,7 +117,7 @@
     -  (Candy) Store Lab
       (LAB)
 
-- [ ] 13. ## Redux: Using the Redux Library
+- [x] 13. ## Redux: Using the Redux Library
     -  Intro to Redux: Reading Data from State
       (LAB)
     -  map-state-to-props-readme
@@ -136,7 +136,7 @@
     -  Redux Put It Together
       (LAB)
 
-- [ ] 14. ## Redux Continued
+- [x] 14. ## Redux Continued
     Components, Events, Actions, and Stores
     -  Creating Items with Redux
       (LAB)
@@ -151,21 +151,21 @@
     -  Create and Delete Lab
       (LAB)
 
-- [ ] 15. ## Asynchronous Redux
+- [x] 15. ## Asynchronous Redux
     Asynchronous Web Requests with Using Thunk and Redux
     -  Async Redux Lab: Pictures of Cats
   (LAB)
 
-- [ ] 16. ## Phase 5 Milestones
+- [x] 16. ## Phase 5 Milestones
     GitHub Link: Phase 5 Portfolio Project
     Video Link: Phase 5 Portfolio Project
     Blog Link: Phase 5 Portfolio Project
     Instructor Review: Phase 5 Portfolio Project
 
-- [ ] 17. ## Final Student Survey
+- [x] 17. ## Final Student Survey
     Student Survey for Phase 5
 
-- [ ] 18. ## Additional Practice
+- [x] 18. ## Additional Practice
     -  Toy Tales
       (LAB)
     -  React Pokemon Searcher
